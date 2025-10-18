@@ -1,4 +1,4 @@
-title: درس برنامه نویسی علامه طباطبائی 
+title: درس برنامه نویسی علامه طباطبائی
 description: درس برنامه نویسی علامه طباطبائی واحد آبشناسان و گلستان
 theme: just-the-docs
 color_scheme: dark
@@ -6,4 +6,7 @@ color_scheme: dark
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+lang: fa
+
+#footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"

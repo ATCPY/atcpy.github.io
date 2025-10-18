@@ -1,0 +1,27 @@
+.side-bar {
+  //align-items: flex-start;
+  border-left: 1px solid #44434d;
+}
+.search-input {
+  padding: 0.5rem 3.5rem 0.5rem 1rem;
+transition: padding-right linear 200ms;
+}
+.search-label {
+padding-right: 2rem;
+transition: padding-right linear 200ms;
+
+}
+@media (min-width: 50rem) {
+  .side-bar + .main {
+    margin-right: 15.5rem;
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar + .main {
+    margin-right: max(16.5rem, (100% - 66.5rem) / 2 + 16.5rem);
+    margin-left: 0;
+  }
+}
+
