@@ -1,6 +1,6 @@
 ---
 title: کلاس هشتم - آبشناسان
-layout: default
+layout: class_main_page
 ---
 
 فعلا هیچی :)

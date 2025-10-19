@@ -1,6 +1,6 @@
 ---
 title: فایل لایت بات تمرین
-layout: default
+layout: class_main_page
 nav_exclude: true
 ---
 سلام

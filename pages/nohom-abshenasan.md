@@ -1,6 +1,6 @@
 ---
 title: کلاس نهم - ابشناسان
-layout: default
+layout: class_main_page
 ---
 
 فعلا هیچی :)

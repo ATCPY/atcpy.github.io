@@ -1,6 +1,6 @@
 ---
 title: کلاس نهم - گلستان
-layout: default
+layout: class_main_page
 ---
 
 فعلا هیچی :)

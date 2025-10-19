@@ -1,6 +1,6 @@
 ---
 title: کلاس هفتم - آبشناسان
-layout: default
+layout: class_main_page
 ---
 
 تمرین هفته اول:
