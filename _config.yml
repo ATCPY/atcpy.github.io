@@ -14,3 +14,6 @@ callouts:
   warning:
     title: توجه
     color: red
+  info:
+    title: اطلاعیه
+    color: blue
