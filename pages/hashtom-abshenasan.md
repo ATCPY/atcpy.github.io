@@ -8,13 +8,16 @@ layout: class_main_page
 | سری تمرین    | موضوع | مهلت ارسال | فایل                                                                                                          |
 |:-------------|:------|:-----------|---------------------------------------------------------------------------------------------------------------|
 | اول          | فایل  | ۱۴۰۴/۰۸/۰۶ | [گوگل داکز](https://docs.google.com/document/d/1qBtDjpqzXn8iWPVZL2rswDOLNwDOAvLyYabNLo2UoCE/edit?usp=sharing) |
+| دوم       | پایتون مقدماتی سری ۵-۶-۷-۸ | ۱۴۰۴/۰۸/۲۵ | از صفحه آموزش مقدماتی پایتون مشاهده کنید.                                                                     |
 
 #  جزوات
 
 | موضوع | فایل                                                                                                         |
 |:------|--------------------------------------------------------------------------------------------------------------|
 | فایل  | [گوگل داکز](https://docs.google.com/document/d/1802lDHy5sTCUxcuVEzbjKnJMAtpyygetsid7m8etCI0/edit?usp=sharing) |
+| فایل -۲| [گوگل داکز  ](https://docs.google.com/document/d/12NikT-crQd1hiemY1ng3FxQ5nsEguuzcHYbw8eThcrU/edit?usp=sharing)                                                                                                   |
 
+--
 
 ----
 

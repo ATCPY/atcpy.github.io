@@ -16,6 +16,17 @@ layout: default
 |هفتم| if..else..elif|[گوگل داکز](https://docs.google.com/document/d/1oKa46Sdmws5nmp_tSjfeOEJqlwj3Hd5W43VTor_QMjE/edit?usp=sharing)|
 |هشتم|توابع |[گوگل داکز](https://docs.google.com/document/d/1nxWQqC1uzcYTgBWIMG9QTX9rJd0bunTBWCSTEljZhJI/edit?usp=sharing)|
 
+
+# تمارین
+
+| سری جزوه | موضوع    | فایل                                                                                                          |
+|:---------|:---------|---------------------------------------------------------------------------------------------------------------|
+|پنجم| حلقه ها  | [گوگل داکز](https://docs.google.com/document/d/1LPqq1gvwmBZJgNF1v6edeZnAvuX91qD5gHHee-Wam50/edit?usp=sharing) |
+|ششم| لیست ها  | [گوگل داکز](https://docs.google.com/document/d/1zQrYMWirZ5pG-G5AYnlFITFklfziie4lbB0sm4PB2VY/edit?usp=sharing) |
+|هفتم| if..else..elif| [گوگل داکز](https://docs.google.com/document/d/1lLbyAT0DGj4cnLnVf0_-s3VLtlVC9xp7l-Xawbu6PS8/edit?usp=sharing) |
+|هشتم|توابع | [گوگل داکز](https://docs.google.com/document/d/11EvD5OtiOy2hnZvA9p54PFIszNXAwC_NhZwyYLoViT0/edit?usp=sharing) |
+
+
 ----
 
 [//]: # ([^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub]&#40;https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site&#41;.)
