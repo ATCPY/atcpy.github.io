@@ -1,3 +1,14 @@
+@font-face {
+  font-family: 'Vazirmatn';
+  src: url('/assets/fonts/Vazirmatn-wght.woff2') format('woff2 supports variations'),
+  url('/assets/fonts/Vazirmatn-wght.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+body {
+  font-family: "Vazirmatn",system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+}
 .side-bar {
   //align-items: flex-start;
   border-left: 1px solid #44434d;
